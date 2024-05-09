@@ -1,10 +1,10 @@
-import React from 'react';
-import './style.css';
-import CelebrityList from './CelebrityList';
-import ListView from './components/ListView';
-import UserCard from './components/UserCard';
-import EditUserForm from './components/EditUserForm';
-import DeleteDialog from './components/DeleteDialog';
+import React from 'react'
+import './style.css'
+import CelebrityList from './CelebrityList'
+import ListView from './components/ListView'
+import UserCard from './components/UserCard'
+import EditUserForm from './components/EditUserForm'
+import DeleteDialog from './components/DeleteDialog'
 
 const users = [
   {
